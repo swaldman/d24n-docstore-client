@@ -46,7 +46,7 @@ Paste in the JSON text of your wallet file, then...
 ```
 [info] Imported JSON wallet for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D', but have not validated it.
 [info] Consider validating the JSON using 'ethKeystoreWalletV3Validate 0xc33071eAd8753B04e0ee108CC168f2B22F93525D'.
-Would you like to define an alias for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (with aliases ['silatest-poopscoop-silamoney-eth','testing3'] on chain with ID 1)? [y/n] y
+Would you like to define an alias for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (on chain with ID 1)? [y/n] y
 Please enter an alias for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (on chain with ID 1): d24n-authorized
 [info] Alias 'd24n-authorized' now points to address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (for chain with ID 1).
 [info] Refreshing caches.
@@ -65,7 +65,7 @@ Enter passphrase for new wallet: *******************
 Please retype to confirm: *******************
 [info] Wallet created and imported into sbt-ethereum shoebox: '/Users/swaldman/Library/Application Support/sbt-ethereum'. Please backup, via 'ethShoeboxBackup' or manually.
 [info] Consider validating the wallet using 'ethKeystoreWalletV3Validate 0xc33071eAd8753B04e0ee108CC168f2B22F93525D'.
-Would you like to define an alias for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (with aliases ['d24n-authorized','silatest-poopscoop-silamoney-eth','testing3'] on chain with ID 1)? [y/n] y
+Would you like to define an alias for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (on chain with ID 1)? [y/n] y
 Please enter an alias for address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (on chain with ID 1): d24n-authorized
 [info] Alias 'd24n-authorized2' now points to address '0xc33071eAd8753B04e0ee108CC168f2B22F93525D' (for chain with ID 1).
 [info] Refreshing caches.
@@ -111,7 +111,7 @@ Enter passphrase or hex private key for address '0xc33071eAd8753B04e0ee108CC168f
 [success] Total time: 68 s (01:08), completed Aug 2, 2020, 6:34:49 PM
 ```
 
-Now, go to the [d24n docstore application](https://docstore.bureaucracy.com/0x1A4934109b54911A724dFA0e45D5370dbBE923B0/doc-store/get/ab0e2a0101b66d8a4aa62cb77f855a94c202ae0ea23152d8a00c04191b63eb9c)
+Now, go to the [d24n docstore application](https://docstore.bureaucracy.com/0x1A4934109b54911A724dFA0e45D5370dbBE923B0/index.html)
 and click on a private ("locked") link. The web page will ask you to log in. Use the username / password pair you entered when you registered above.
 
 And you are done!
